@@ -5,17 +5,17 @@ import NewExpense from './components/NewExpense/NewExpense';
 const App =() => {
   const expenses = [
     {
-      date: new Date(2022, 6, 28),
+      date: new Date(2022, 6, 30),
       title: 'car loan',
       amount: 2000
 
     }, {
-      date: new Date(2022, 7, 12),
+      date: new Date(2022, 7, 01),
       title: 'tv loan',
       amount: 3000
 
     }, {
-      date: new Date(2022, 5, 2),
+      date: new Date(2022, 5, 04),
       title: 'credit loan',
       amount: 3000
 
