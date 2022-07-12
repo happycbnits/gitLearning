@@ -7,23 +7,23 @@ const App =() => {
     {
       date: new Date(2022, 6, 30),
       title: 'car loan',
-      amount: 2000
+      amount: 4566
 
     }, {
       date: new Date(2022, 7, 01),
       title: 'tv loan',
-      amount: 3000
+      amount: 454
 
     }, {
       date: new Date(2022, 5, 04),
       title: 'credit loan',
-      amount: 3000
+      amount: 4545
 
     },
     {
       date: new Date(2032, 1, 2),
       title: 'book loan',
-      amount: 4500
+      amount: 5445
 
     }
   ];
